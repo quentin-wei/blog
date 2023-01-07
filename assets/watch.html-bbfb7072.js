@@ -1,0 +1,1 @@
+import{_ as t,V as c,W as o,Y as e}from"./framework-22410690.js";const _={},l=e("ol",null,[e("li",null,"watch.md")],-1),n=[l];function s(a,r){return c(),o("div",null,n)}const h=t(_,[["render",s],["__file","watch.html.vue"]]);export{h as default};

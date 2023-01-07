@@ -1,0 +1,1 @@
+import{_ as t,V as c,W as a,Y as e,Z as s}from"./framework-22410690.js";const o={},r=e("h3",{id:"_1-js-object",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_1-js-object","aria-hidden":"true"},"#"),s(" 1. JS Object")],-1),_=[r];function n(d,i){return c(),a("div",null,_)}const l=t(o,[["render",n],["__file","Object.html.vue"]]);export{l as default};

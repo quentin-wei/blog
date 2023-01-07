@@ -1,0 +1,1 @@
+import{_ as t,V as _,W as a,Y as e,Z as s}from"./framework-22410690.js";const c={},r=e("h3",{id:"_1-js-垃圾回收",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_1-js-垃圾回收","aria-hidden":"true"},"#"),s(" 1. JS 垃圾回收")],-1),o=[r];function n(d,i){return _(),a("div",null,o)}const l=t(c,[["render",n],["__file","垃圾回收.html.vue"]]);export{l as default};

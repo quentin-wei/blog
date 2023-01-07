@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-22a39d25","path":"/about.html","title":"项目简介","lang":"zh-CN","frontmatter":{"navbar":false,"sidebar":false},"headers":[{"level":3,"title":"禁用导航栏 侧边栏","slug":"禁用导航栏-侧边栏","link":"#禁用导航栏-侧边栏","children":[]}],"git":{},"readingTime":{"minutes":0.33,"words":99},"filePathRelative":"about.md"}');export{e as data};
