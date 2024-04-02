@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6166044d","path":"/js/Object.html","title":"JS Object","lang":"zh-CN","frontmatter":{"title":"JS Object"},"headers":[{"level":3,"title":"1. JS Object","slug":"_1-js-object","link":"#_1-js-object","children":[]}],"git":{},"readingTime":{"minutes":0.02,"words":6},"filePathRelative":"js/Object.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fffb8e28","path":"/guide/","title":"项目简介","lang":"zh-CN","frontmatter":{"navbar":false,"sidebar":false},"headers":[{"level":3,"title":"禁用导航栏 侧边栏","slug":"禁用导航栏-侧边栏","link":"#禁用导航栏-侧边栏","children":[]}],"git":{},"readingTime":{"minutes":0.33,"words":99},"filePathRelative":"guide/README.md"}');export{e as data};

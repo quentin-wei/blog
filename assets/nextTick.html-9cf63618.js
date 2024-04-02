@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e85bb602","path":"/vue2/nextTick.html","title":"nextTick","lang":"zh-CN","frontmatter":{"title":"nextTick"},"headers":[],"git":{},"readingTime":{"minutes":0.01,"words":2},"filePathRelative":"vue2/nextTick.md"}');export{e as data};
